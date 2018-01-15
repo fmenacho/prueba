@@ -1,5 +1,7 @@
 var oGestion=new Gestion();
 
+////////////////////editado////////////////
+
 //botones principales
 var oBtnAlquiler=document.getElementById("btnAlquiler");
 oBtnAlquiler.addEventListener("click", mostrarMenuAlquiler, false);
