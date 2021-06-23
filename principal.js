@@ -1,5 +1,8 @@
 var oGestion=new Gestion();
 
+
+
+
 ////////////////////editado////////////////
 
 //botones principales
